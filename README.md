@@ -4,8 +4,7 @@
 ### Full-Stack Developer | MERN | DSA Enthusiast  
 
 📍 Kolkata, West Bengal  
-🔗 [GitHub](https://github.com/ramitkumardutta) • [LinkedIn](https://linkedin.com/in/your-link)
-
+🔗 [GitHub](https://github.com/ramitkumardutta) • [LinkedIn](https://www.linkedin.com/in/ramit-kumar-dutta-161a851a0/)
 </div>
 
 ---
@@ -40,6 +39,7 @@
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![Github](https://img.shields.io/badge/Github-FFD032?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
 
 ---
@@ -76,10 +76,6 @@ https://github.com/ramitkumardutta/Pokemon
 </div>
 
 ---
-
-### 📫 Connect With Me
-- GitHub: https://github.com/ramitkumardutta
-- LinkedIn: https://www.linkedin.com/in/ramit-kumar-dutta-161a851a0/
 
 ---
 ![](https://komarev.com/ghpvc/?username=ramitkumardutta&style=flat-square)
