@@ -40,7 +40,7 @@
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![Github](https://img.shields.io/badge/Github-FFD032?style=flat-square)
+![Github](https://img.shields.io/badge/Github-black?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
 
 ---
