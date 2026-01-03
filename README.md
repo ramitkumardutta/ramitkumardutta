@@ -84,8 +84,4 @@
 </div>
 
 ---
-
----
-<div align="right">
 ![](https://komarev.com/ghpvc/?username=ramitkumardutta&style=flat-square)
-</div>
