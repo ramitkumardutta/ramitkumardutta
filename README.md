@@ -84,4 +84,7 @@
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=ramitkumardutta&style=flat-square)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ramitkumardutta&style=flat-square" />
+</div>
+
