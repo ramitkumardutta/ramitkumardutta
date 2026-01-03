@@ -36,6 +36,7 @@
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![REST API](https://img.shields.io/badge/RESTful%20API-Architecture-blue?style=flat-square)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
@@ -53,9 +54,16 @@
 
 ---
 
-👉 **Repository:**  
-https://github.com/ramitkumardutta/restaurant-reservation-system
-https://github.com/ramitkumardutta/Pokemon
+👉 **Repositories:**
+- 🍽 **Restaurant Reservation System**  
+  https://github.com/ramitkumardutta/restaurant-reservation-system
+
+- 🐱 **Pokemon Project**  
+  https://github.com/ramitkumardutta/Pokemon
+
+- 🌍 **World Atlas (Geography Explorer)**    
+  https://github.com/ramitkumardutta/Atlas
+
 
 ---
 
@@ -78,4 +86,6 @@ https://github.com/ramitkumardutta/Pokemon
 ---
 
 ---
+<div align="right">
 ![](https://komarev.com/ghpvc/?username=ramitkumardutta&style=flat-square)
+</div>
