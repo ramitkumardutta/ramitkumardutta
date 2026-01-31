@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2023–2027)
-- 💻 Full-stack developer focused on **MERN**
+- 💻 Full-stack developer, focused on **MERN** & **System Design**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - ⚡ Passionate about building **real-world systems**, not just demos
 
