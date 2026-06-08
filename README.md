@@ -68,10 +68,10 @@
 ---
 
 ### 🏆 Achievements
-- Solved **600+ problems** across LeetCode, CodeChef, and Codeforces  
-- LeetCode Rating: **1633**  
+- Solved **1000+ problems** across LeetCode, CodeChef, and Codeforces  
+- LeetCode Rating: **1826**  
 - CodeChef Rating: **1483 (2⭐)**  
-- Participated in **SIH Hackathon 2023 & 2024**
+- Participated in **SIH Hackathon 2023 & 2024, Top 10 in Hack Horizon, National Level Hackathon**
 
 ---
 
