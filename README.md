@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ramit Kumar Dutta  
-### Full-Stack Developer | MERN | DSA Enthusiast  
+### Full-Stack Developer | MERN | Competitive Programmer
 
 📍 Kolkata, West Bengal  
 🔗 [GitHub](https://github.com/ramitkumardutta) • [LinkedIn](https://www.linkedin.com/in/ramit-kumar-dutta-161a851a0/)
@@ -54,15 +54,21 @@
 
 ---
 
+##  Featured Projects
+
 👉 **Repositories:**
-- 🍽 **Restaurant Reservation System**  
-  https://github.com/ramitkumardutta/restaurant-reservation-system
 
-- 🐱 **Pokemon Project**  
-  https://github.com/ramitkumardutta/Pokemon
+* 💬 **Real-Time Chat Application**
+  Full-stack chat application with real-time messaging, JWT authentication, Socket.IO, and MongoDB.
+  https://github.com/ramitkumardutta/real-time-chat-app
 
-- 🌍 **World Atlas (Geography Explorer)**    
-  https://github.com/ramitkumardutta/Atlas
+* 🤖 **RashDev – AI Developer Evaluation Platform**
+  AI-powered platform that analyzes resumes, GitHub profiles, and competitive programming profiles to generate developer insights and technical evaluations.
+  https://github.com/ramitkumardutta/RashDev
+
+* 🚖 **Ride Booking System**
+  A full-stack ride-booking application featuring real-time location updates, authentication, booking flow, and modern React UI.
+  https://github.com/ramitkumardutta/ride_booking_app
 
 
 ---
