@@ -48,7 +48,7 @@
 ## 📊 Competitive Programming
 
 - ✅ Solved **600+** DSA problems  
-- 🟠 LeetCode Rating: **1633**  
+- 🟠 LeetCode Rating: **1826**  
 - ⭐ CodeChef Rating: **1483 (2★)**  
 - 🏁 Participated in **SIH Hackathon 2023 & 2024**
 
